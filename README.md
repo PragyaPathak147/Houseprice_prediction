@@ -6,7 +6,7 @@ A complete end-to-end regression pipeline built to predict house prices based on
 
 ## 📊 Dataset
 The dataset contains residential property features like:
-- `bedrooms`, `bathrooms`, `sqft_living`, `lat`, `long`
+- `bedrooms`, `bathrooms`, `sqft_living`
 - `city`, `statezip`
 - `yr_built`, `price` (target)
 
